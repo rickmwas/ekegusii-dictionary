@@ -1,0 +1,4 @@
+- [x] Update README.md to remove Lovable references and make it independent
+- [ ] Replace public/favicon.ico with a new icon
+- [ ] Run the app locally to verify changes
+- [ ] Test deployment if needed
